@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+# Welcome to My Lovable project
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+**URL**: (https://leoverse-ai.lovable.app)
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Lovable Project](https://lovable.dev/projects/76d40ec7-cf9c-4f46-abb6-ad342623fec4) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
